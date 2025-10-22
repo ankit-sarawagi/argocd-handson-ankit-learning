@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://gitlab.com/nanuchi/argocd-app-config.git
+    repoURL: https://github.com/ankit-sarawagi/argocd-handson-ankit-learning
     targetRevision: HEAD
     path: dev
   destination: 
